@@ -60,11 +60,6 @@ python backend_viz.py    # saves backend_connectivity.png
 python circuit_viz.py    # saves circuit_topology.png
 ```
 
-MLflow logs are stored in `./mlruns/`. View them with:
-
-```bash
-mlflow ui
-```
 
 ## Circuit Description
 
