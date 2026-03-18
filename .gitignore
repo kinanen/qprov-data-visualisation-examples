@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.png
+qcprov.json
+tmp*.json
+mlruns/
+.DS_Store

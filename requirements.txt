@@ -1,0 +1,7 @@
+qiskit==1.2.4
+qiskit-aer==0.15.1
+qiskit-iqm==17.8
+mlflow==3.10.1
+matplotlib==3.10.8
+networkx==3.6.1
+numpy==2.4.3
