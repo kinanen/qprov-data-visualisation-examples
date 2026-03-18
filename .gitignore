@@ -2,7 +2,6 @@
 __pycache__/
 *.pyc
 *.pyo
-*.png
 qcprov.json
 tmp*.json
 mlruns/
